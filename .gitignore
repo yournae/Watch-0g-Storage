@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+watch_0g_state.json
+
